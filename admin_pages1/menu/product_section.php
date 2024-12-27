@@ -24,8 +24,8 @@ $query_lietke_danhmuc_sp = $mysqli->query($sql_lietke_danhmuc_sp);
     }
 
     .product_list tr th {
-        background-color: #ff5f17;
-        color: white;
+        background-color: #FFCC57;
+        color: black;
     }
 
     .product_list tr td {
@@ -40,11 +40,11 @@ $query_lietke_danhmuc_sp = $mysqli->query($sql_lietke_danhmuc_sp);
     }
 
     .bx-trash:hover {
-        color: #ff5f17;
+        color: #FFCC57;
     }
 
     .bx-edit:hover {
-        color: #ff5f17;
+        color: #FFCC57;
     }
 
     .product_list {
@@ -59,7 +59,7 @@ $query_lietke_danhmuc_sp = $mysqli->query($sql_lietke_danhmuc_sp);
         display: flex;
         height: 35px;
         padding: 0;
-        background: #ff5f17;
+        background: #FFCC57;
         border: none;
         outline: none;
         border-radius: 5px;
@@ -68,10 +68,11 @@ $query_lietke_danhmuc_sp = $mysqli->query($sql_lietke_danhmuc_sp);
         font-size: 14px;
         font-weight: 500;
         cursor: pointer;
+        color: black;
     }
 
     .product-hnm .btn-add-product:hover {
-        background: #d54e10;
+        background: #E6A32D;
     }
 
     .product-hnm .btn-add-product .btn-add-product-text,
@@ -79,7 +80,7 @@ $query_lietke_danhmuc_sp = $mysqli->query($sql_lietke_danhmuc_sp);
         display: inline-flex;
         align-items: center;
         padding: 0 5px;
-        color: #fff;
+        color: black;
         height: 100%;
     }
 

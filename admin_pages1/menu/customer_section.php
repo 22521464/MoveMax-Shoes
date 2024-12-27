@@ -13,8 +13,8 @@
     }
 
     .customer_list tr th {
-        background-color: #ff5f17;
-        color: white;
+        background-color: #FFCC57;
+        color: black;
     }
 
     .customer_list tr td {
@@ -28,7 +28,7 @@
     }
 
     .bx-cart:hover {
-        color: #ff5f17;
+        color: #FFCC57;
     }
 
     .bx-receipt {
@@ -37,7 +37,7 @@
     }
 
     .bx-receipt:hover {
-        color: #ff5f17;
+        color: #FFCC57;
     }
 </style>
 <!DOCTYPE html>

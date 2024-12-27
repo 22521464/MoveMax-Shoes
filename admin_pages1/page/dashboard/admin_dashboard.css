@@ -116,12 +116,12 @@ header .image-text-hnm .header-text-hnm {
     transform: translateY(-50%) rotate(180deg);
     height: 25px;
     width: 25px;
-    background: var(--primary-color);
+    background: #FFCC57;
     display: flex;
     align-items: center;
     justify-content: center;
+    color: black;
     border-radius: 50%;
-    color: var(--sidebar-color);
     font-size: 22px;
     transition: var(--tran-03);
 }
@@ -148,16 +148,17 @@ header .image-text-hnm .header-text-hnm {
 }
 
 .menu-hnm li:hover {
-    background: var(--primary-color);
+    background: #FFCC57;
 }
 
 .dangxuat-hnm li:hover {
-    background: var(--primary-color);
+    background: #FFCC57;
 }
 
 .sidebar-hnm li a:hover .icon,
 .sidebar-hnm li a:hover .nav-text-hnm {
-    color: var(--sidebar-color);
+    color: black;
+    transition: var(--tran-04);
 }
 
 
@@ -259,4 +260,3 @@ header .image-text-hnm .header-text-hnm {
     left: 88px;
     width: calc(100% - 88px);
 }
-
