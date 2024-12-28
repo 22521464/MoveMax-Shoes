@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 27, 2024 at 09:35 AM
+-- Generation Time: Dec 28, 2024 at 04:40 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.1.25
 
@@ -673,11 +673,8 @@ CREATE TABLE `saleoff` (
 --
 
 INSERT INTO `saleoff` (`saleoffid`, `ngaybd`, `ngaykt`, `giatrigiam`, `loaisp`) VALUES
-(1, '2023-12-13 00:00:00', '2023-12-14 00:00:00', 23, ''),
-(2, '2023-12-13 00:00:00', '2023-12-20 00:00:00', 45, 'Vintas'),
-(3, '2023-12-16 00:00:00', '2023-12-17 00:00:00', 2, ''),
-(4, '2023-12-15 00:00:00', '2023-12-21 00:00:00', 20, ''),
-(15, '2023-12-16 00:00:00', '2023-12-19 00:00:00', 30, '');
+(16, '2024-12-28 00:00:00', '2025-11-11 00:00:00', 25, 'Nike'),
+(17, '2024-12-29 00:00:00', '2024-12-31 00:00:00', 10, 'Nike');
 
 -- --------------------------------------------------------
 
@@ -690,6 +687,48 @@ CREATE TABLE `saleoffct` (
   `saleoffid` int(11) NOT NULL,
   `procolorid` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+
+--
+-- Dumping data for table `saleoffct`
+--
+
+INSERT INTO `saleoffct` (`saleoffctid`, `saleoffid`, `procolorid`) VALUES
+(48, 16, 63),
+(49, 16, 65),
+(50, 16, 66),
+(51, 16, 68),
+(52, 16, 69),
+(53, 16, 71),
+(54, 16, 72),
+(55, 16, 73),
+(56, 16, 74),
+(57, 16, 75),
+(58, 16, 76),
+(59, 16, 77),
+(60, 16, 78),
+(61, 16, 79),
+(62, 16, 80),
+(63, 16, 81),
+(64, 16, 82),
+(65, 16, 83),
+(66, 17, 63),
+(67, 17, 65),
+(68, 17, 66),
+(69, 17, 68),
+(70, 17, 69),
+(71, 17, 71),
+(72, 17, 72),
+(73, 17, 73),
+(74, 17, 74),
+(75, 17, 75),
+(76, 17, 76),
+(77, 17, 77),
+(78, 17, 78),
+(79, 17, 79),
+(80, 17, 80),
+(81, 17, 81),
+(82, 17, 82),
+(83, 17, 83);
 
 -- --------------------------------------------------------
 
@@ -1027,13 +1066,13 @@ ALTER TABLE `productcolor`
 -- AUTO_INCREMENT for table `saleoff`
 --
 ALTER TABLE `saleoff`
-  MODIFY `saleoffid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
+  MODIFY `saleoffid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
 
 --
 -- AUTO_INCREMENT for table `saleoffct`
 --
 ALTER TABLE `saleoffct`
-  MODIFY `saleoffctid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=48;
+  MODIFY `saleoffctid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=84;
 
 --
 -- AUTO_INCREMENT for table `sanpham`
