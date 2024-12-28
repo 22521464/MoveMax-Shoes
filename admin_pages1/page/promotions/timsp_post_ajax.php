@@ -7,11 +7,11 @@
     if($results->num_rows>0){
         $row = $results->fetch_row();
         $d .= '<tr> <td><div><input type="hidden" name="showtensp[]" value="'. $row[0] . '">'. $row[0] . '</input></div></td>              
-                    <td><div class="hinhanhsp"><img src="../products/uploads/'.$row[1].'"></div></td>
-                    <td><button class="delete button">Xóa</button></td>
+                    <td style="border:none!important;"><button class="delete button">Xóa</button></td>
                 </tr>';
         echo $d;
     }
     else
         echo $d;
 ?>
+                    <!-- <td><div class="hinhanhsp"><img src="../products/uploads/'.$row[1].'"></div></td> -->

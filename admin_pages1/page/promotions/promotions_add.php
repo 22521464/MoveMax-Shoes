@@ -166,7 +166,7 @@
         }
 
         #id_table_sanphamcuthe {
-            border: solid 3px #ff5f17;
+            border: solid 3px #ffcc57;
         }
 
         #id_table_sanphamcuthe tr td #input_nhapidsanphamcuthe {
@@ -174,12 +174,11 @@
         }
 
         #id_table_sanphamcuthe tr td {
-            height: 130px;
-            width: 130px;
+
             padding-left: 10px;
             padding-right: 10px;
             background-color: white;
-            border: solid 3px #ff5f17;
+            border: solid 3px #ffcc57;
         }
 
         #id_table_sanphamcuthe tr td img {
