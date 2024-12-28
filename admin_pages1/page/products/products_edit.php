@@ -475,38 +475,20 @@ while ($row_quantity_size = $query_lietke_danhmuc_sp_1->fetch_assoc()) {
                         </div>
                         <br>
                         <div id="div_sua_kieudang">
-                            <label id="label_sua_kieudang">Kiểu dáng</label>
-                            <select id="select_sua_kieudang" name="select_sua_kieudang">
-                                <?php if ($row['stylename'] == "Low Top") {
-                                ?>
-                                    <option value="Low Top" name="lowtop" selected>Low Top</option>
-                                    <option value="High Top" name="hightop">High Top</option>
-                                    <option value="Mid Top" name="midtop">Mid Top</option>
-                                    <option value="Mule" name="mule">Mule</option>
-                                <?php } else  if ($row['stylename'] == "High Top") {
-                                ?>
-                                    <option value="Low Top" name="lowtop">Low Top</option>
-                                    <option value="High Top" name="hightop" selected>High Top</option>
-                                    <option value="Mid Top" name="midtop">Mid Top</option>
-                                    <option value="Mule" name="mule">Mule</option>
-                                <?php } else  if ($row['stylename'] == "Mid Top") {
-                                ?>
-                                    <option value="Low Top" name="lowtop">Low Top</option>
-                                    <option value="High Top" name="hightop">High Top</option>
-                                    <option value="Mid Top" name="midtop" selected>Mid Top</option>
-                                    <option value="Mule" name="mule">Mule</option>
-                                <?php } else  if ($row['stylename'] == "Mule") {
-                                ?>
-                                    <option value="Low Top" name="lowtop">Low Top</option>
-                                    <option value="High Top" name="hightop">High Top</option>
-                                    <option value="Mid Top" name="midtop">Mid Top</option>
-                                    <option value="Mule" name="mule" selected>Mule</option>
+      <label id="label_sua_kieudang">Kiểu dáng</label>
+      <select id="select_sua_kieudang" name="select_sua_kieudang">
+          <?php
+          // Danh sách các kiểu dáng
+          $styles = ["Bóng đá", "Bóng rổ", "Gym", "Chạy bộ"];
+          foreach ($styles as $style) {
+              // Kiểm tra kiểu dáng hiện tại có khớp với $row['stylename']
+              $selected = ($row['stylename'] === $style) ? "selected" : "";
+              echo "<option value=\"$style\" $selected>$style</option>";
+          }
+          ?>
+      </select>
+  </div>
 
-                                <?php
-                                }
-                                ?>
-                            </select>
-                        </div>
                     </div>
                     <br>
                     <div id="div_sua_thongtinsanpham">

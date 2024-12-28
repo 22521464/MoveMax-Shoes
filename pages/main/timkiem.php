@@ -38,13 +38,13 @@
 
                 <div class="row left-row-item">
                     <div class="container row-menu-under row-menu-kieudangsanpham">
-                        <a type="button" class="btn btn-style btn-same" data-toggle="collapse" data-target="#demo2" style="color: orange;font-size: 18px;">KIỂU DÁNG <span class="fa fa-chevron-up"></span></a>
+                        <a type="button" class="btn btn-style btn-same" data-toggle="collapse" data-target="#demo2" style="color: orange;font-size: 18px;">Loại giày <span class="fa fa-chevron-up"></span></a>
                         <div id="demo2" class="collapse show">
                             <ul class="status-item">
-                                <li><a href="index.php?quanly=danhmucsanpham&id=17">Low Top</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=18">High Top</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=19">Mid Top</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=20">Mule</a></li>
+                            <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=17">Bóng đá</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=18">Bóng rổ</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=19">Gym</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=20">Chạy bộ</a></li>
                             </ul>
                         </div>
                     </div>
@@ -52,15 +52,13 @@
 
                 <div class="row left-row-item">
                     <div class="container row-menu-under row-menu-dongsanpham">
-                        <a type="button" class="btn btn-productline btn-same" data-toggle="collapse" data-target="#demo" style="color: orange;font-size: 18px;">DÒNG SẢN PHẨM <span class="fa fa-chevron-up"></span></a>
+                        <a type="button" class="btn btn-productline btn-same" data-toggle="collapse" data-target="#demo" style="color: orange;font-size: 18px;">Hãng giày <span class="fa fa-chevron-up"></span></a>
                         <div id="demo" class="collapse show">
                             <ul class="status-item">
-                                <li><a href="index.php?quanly=danhmucsanpham&id=5">Basas</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=6">Vintas</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=7">Urbas</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=8">Pattas</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=9">Creas</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=10">Track 6</a></li>
+                            <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=5">Nike</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=6">Adidas</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=7">Biti's</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=8">Puma</a></li>
                             </ul>
                         </div>
                     </div>
@@ -71,12 +69,12 @@
                         <a type="button" class="btn btn-price btn-same" data-toggle="collapse" data-target="#demo1" style="color: orange;font-size: 18px;">GIÁ <span class="fa fa-chevron-up"></span></a>
                         <div id="demo1" class="collapse show" style="width: 100%;">
                             <ul class="status-item">
-                                <li><a href="index.php?quanly=danhmucsanpham&id=11">≥ 600k</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=12">500k - 599k</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=13">400k - 499k</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=14">300k - 399k</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=15">200k - 299k</a></li>
-                                <li><a href="index.php?quanly=danhmucsanpham&id=16">
+                            <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=11">≥ 6M</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=12">5M - 5.99M</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=13">4M - 4.99M</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=14">3M - 3.99M</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=15">2M - 2.99M</a></li>
+                                <li><a class="ajax-link" href="index.php?quanly=danhmucsanpham&id=16">
                                         < 200k</a>
                                 </li>
                             </ul>
