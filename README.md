@@ -9,7 +9,7 @@
 ## GIỚI THIỆU ĐỒ ÁN
 
 -    **Đề tài:** Website bán giày nội bộ cửa hàng bán giày thể thao - MoveMax
--    **Repository Sourcecode:** [Phát triển ứng dụng web](https://https://github.com/22521464/MoveMax-Shoes)
+-    **Repository Sourcecode:** [Phát triển ứng dụng web](https://github.com/22521464/MoveMax-Shoes)
 
 ## THÀNH VIÊN NHÓM
 
