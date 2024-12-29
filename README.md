@@ -14,7 +14,8 @@
         <img src="ava.jpg" alt="Logo MoveMax" style="width: 200px; height: auto;>
      </a>
      </p> 
-##Ý nghĩa
+<h2>Ý Nghĩa Logo</h2>
+<p>Hình ảnh trung tâm của logo là hình ảnh dây giày, một phần không thể thiếu của giày thể thao. Hình ảnh dây giày nhìn một cách trừu tượng sẽ thấy được hai chữ "M" đối nhau, tượng trưng cho tên thương hiệu MoveMax.</p>
 
 <h2>Ý Nghĩa Logo</h2>
 <p>Hình ảnh trung tâm của logo là hình ảnh dây giày, một phần không thể thiếu của giày thể thao. Hình ảnh dây giày nhìn một cách trừu tượng sẽ thấy được hai chữ "M" đối nhau, tượng trưng cho tên thương hiệu MoveMax.</p>
