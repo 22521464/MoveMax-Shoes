@@ -11,7 +11,7 @@
 -    **Đề tài:** Website bán giày thể thao - MoveMax
 -    <p align="center">
 <a href="https://drive.google.com/drive/folders/1XeAbOJGT06D1Ibj21rMEsLf9drxzC2E3?usp=drive_link" title="Logo MoveMax" style="border: none;">
-<img src="https://i.imgur.com/a/70OJvNm.png" alt="Logo MoveMax">
+<img src="https://imgur.com/gallery/doan-70OJvNm" alt="Logo MoveMax">
 </a>
 </p>
 -    **Y nghia logo:** Hình ảnh trung tâm của logo là hình ảnh dây giày, là một phần không thể thiếu của giày thể thao. Hình ảnh dây giày nhìn một cách trừu tượng sẽ thấy được 2 chữ M đối nhau và chữ M ở đây tượng trưng cho tên thương hiệu.
