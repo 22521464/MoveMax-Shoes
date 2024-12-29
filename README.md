@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1XeAbOJGT06D1Ibj21rMEsLf9drxzC2E3?usp=drive_link" title="Logo MoveMax" style="border: none;">
-    <img src="https://imgur.com/AVjxeUu" alt="Logo MoveMax">
+    <img src="https://https://imgur.com/rym7Q52" alt="Logo MoveMax">
   </a>
 </p>
 
