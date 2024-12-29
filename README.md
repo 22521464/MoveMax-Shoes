@@ -3,16 +3,16 @@
 <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
 </a>
 </p>
-<p align="center">
-<a href="https://drive.google.com/drive/folders/1XeAbOJGT06D1Ibj21rMEsLf9drxzC2E3?usp=drive_link" title="Logo MoveMax" style="border: none;">
-<img src="ava.jpg" alt="Logo MoveMax" style="width: 200px; height: auto;>
-</a>
-</p>
 
 
 ## GIỚI THIỆU ĐỒ ÁN
 
 -    **Đề tài:** Website bán giày thể thao - MoveMax
+-    <p align="center">
+<a href="https://drive.google.com/drive/folders/1XeAbOJGT06D1Ibj21rMEsLf9drxzC2E3?usp=drive_link" title="Logo MoveMax" style="border: none;">
+<img src="ava.jpg" alt="Logo MoveMax" style="width: 200px; height: auto;>
+</a>
+</p>
 -    **Y nghia logo:** Hình ảnh trung tâm của logo là hình ảnh dây giày, là một phần không thể thiếu của giày thể thao. Hình ảnh dây giày nhìn một cách trừu tượng sẽ thấy được 2 chữ M đối nhau và chữ M ở đây tượng trưng cho tên thương hiệu.
 -    **Y nghia tên thương hiệu :** Tên thương hiệu "MoveMax" kết hợp giữa "Move" (di chuyển) và "Max" (tối đa), thể hiện ý chí vươn tới giới hạn, di chuyển tối đa, hoặc đạt được hiệu suất cao nhất.
 -    **Y nghia slogan:** Khẩu hiệu này củng cố thêm ý nghĩa của logo, nhấn mạnh sự kiên định, vững chắc trong từng bước đi, và tinh thần chinh phục, vượt qua mọi khó khăn, thử thách.
