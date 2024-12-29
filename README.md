@@ -3,10 +3,6 @@
 <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
 </a>
 </p>
-
-
-
-## GIỚI THIỆU ĐỒ ÁN
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1XeAbOJGT06D1Ibj21rMEsLf9drxzC2E3?usp=drive_link" title="Logo MoveMax" style="border: none;">
 <img src="ava.jpg" alt="Logo MoveMax" style="width: 200px; height: auto;>
@@ -14,7 +10,7 @@
 </p>
 
 
-
+## GIỚI THIỆU ĐỒ ÁN
 
 -    **Đề tài:** Website bán giày thể thao - MoveMax
 -    **Y nghia logo:** Hình ảnh trung tâm của logo là hình ảnh dây giày, là một phần không thể thiếu của giày thể thao. Hình ảnh dây giày nhìn một cách trừu tượng sẽ thấy được 2 chữ M đối nhau và chữ M ở đây tượng trưng cho tên thương hiệu.
