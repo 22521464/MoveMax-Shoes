@@ -10,9 +10,9 @@
 
 -    **Đề tài:** Website bán giày thể thao - MoveMax
 -    <p align="center">
-  <a>
-    <img src="https://imgur.com/rym7Q52" alt="Logo MoveMax">
-  </a>
+<a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
+<img src="https://imgur.com/rym7Q52" alt="Logo MoveMax">
+</a>
 </p>
 -    **Y nghia logo:** Hình ảnh trung tâm của logo là hình ảnh dây giày, là một phần không thể thiếu của giày thể thao. Hình ảnh dây giày nhìn một cách trừu tượng sẽ thấy được 2 chữ M đối nhau và chữ M ở đây tượng trưng cho tên thương hiệu.
 -    **Y nghia tên thương hiệu :** Tên thương hiệu "MoveMax" kết hợp giữa "Move" (di chuyển) và "Max" (tối đa), thể hiện ý chí vươn tới giới hạn, di chuyển tối đa, hoặc đạt được hiệu suất cao nhất.
