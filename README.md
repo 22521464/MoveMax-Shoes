@@ -12,7 +12,7 @@
 <img src="ava.jpg" alt="Logo MoveMax" style="width: 200px; height: auto;>
 </a>
 </p>
--    **Đề tài:** Website bán giày thể thao - MoveMax
+-    Website bán giày thể thao - MoveMax
 -    **Đề tài:** Website bán giày thể thao - MoveMax
 -    **Y nghia logo:** Hình ảnh trung tâm của logo là hình ảnh dây giày, là một phần không thể thiếu của giày thể thao. Hình ảnh dây giày nhìn một cách trừu tượng sẽ thấy được 2 chữ M đối nhau và chữ M ở đây tượng trưng cho tên thương hiệu.
 -    **Y nghia tên thương hiệu :** Tên thương hiệu "MoveMax" kết hợp giữa "Move" (di chuyển) và "Max" (tối đa), thể hiện ý chí vươn tới giới hạn, di chuyển tối đa, hoặc đạt được hiệu suất cao nhất.
