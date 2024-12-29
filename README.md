@@ -14,13 +14,13 @@
 <img src="ava.jpg" alt="Logo MoveMax" style="width: 200px; height: auto;>
 </a>
 </p>
-  <p>
+##Ý nghĩa
 -    **Ý nghĩa logo:** Hình ảnh trung tâm của logo là hình ảnh dây giày, là một phần không thể thiếu của giày thể thao. Hình ảnh dây giày nhìn một cách trừu tượng sẽ thấy được 2 chữ M đối nhau và chữ M ở đây tượng trưng cho tên thương hiệu.
 -    **Ý nghĩa tên thương hiệu :** Tên thương hiệu "MoveMax" kết hợp giữa "Move" (di chuyển) và "Max" (tối đa), thể hiện ý chí vươn tới giới hạn, di chuyển tối đa, hoặc đạt được hiệu suất cao nhất.
 -    **Ý nghĩa slogan:** Khẩu hiệu này củng cố thêm ý nghĩa của logo, nhấn mạnh sự kiên định, vững chắc trong từng bước đi, và tinh thần chinh phục, vượt qua mọi khó khăn, thử thách.
--    **Repository Sourcecode:** [Phát triển ứng dụng web](https://github.com/22521464/MoveMax-Shoes)
-</p>
 
+ 
+-    **Repository Sourcecode:** [Phát triển ứng dụng web](https://github.com/22521464/MoveMax-Shoes)
 ## THÀNH VIÊN NHÓM
 
 | STT | MSSV     | Họ và Tên            | Email                  |
